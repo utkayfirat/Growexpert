@@ -1,0 +1,14 @@
+E:\Users\Utkay FIRAT\source\repos\Growexpert\Growexpert\bin\Debug\Growexpert.exe.config
+E:\Users\Utkay FIRAT\source\repos\Growexpert\Growexpert\bin\Debug\Growexpert.exe
+E:\Users\Utkay FIRAT\source\repos\Growexpert\Growexpert\bin\Debug\Growexpert.pdb
+E:\Users\Utkay FIRAT\source\repos\Growexpert\Growexpert\obj\Debug\Growexpert.csproj.AssemblyReference.cache
+E:\Users\Utkay FIRAT\source\repos\Growexpert\Growexpert\obj\Debug\Growexpert.csproj.SuggestedBindingRedirects.cache
+E:\Users\Utkay FIRAT\source\repos\Growexpert\Growexpert\obj\Debug\Growexpert.Form1.resources
+E:\Users\Utkay FIRAT\source\repos\Growexpert\Growexpert\obj\Debug\Growexpert.Properties.Resources.resources
+E:\Users\Utkay FIRAT\source\repos\Growexpert\Growexpert\obj\Debug\Growexpert.csproj.GenerateResource.cache
+E:\Users\Utkay FIRAT\source\repos\Growexpert\Growexpert\obj\Debug\Growexpert.csproj.CoreCompileInputs.cache
+E:\Users\Utkay FIRAT\source\repos\Growexpert\Growexpert\obj\Debug\Growexpert.exe
+E:\Users\Utkay FIRAT\source\repos\Growexpert\Growexpert\obj\Debug\Growexpert.pdb
+E:\Users\Utkay FIRAT\source\repos\Growexpert\Growexpert\obj\Debug\Growexpert.Hook.resources
+E:\Users\Utkay FIRAT\source\repos\Growexpert\Growexpert\obj\Debug\Growexpert.csproj.CopyComplete
+E:\Users\Utkay FIRAT\source\repos\Growexpert\Growexpert\bin\Debug\ezOverLay.dll
