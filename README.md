@@ -1,5 +1,8 @@
-# Growexpert V1 (EDUCATIONAL PURPOSES)
+## Growexpert V1 (EDUCATIONAL PURPOSES)
+
 <img src="https://github.com/utkayfirat/Growexpert/blob/main/one.png"><br>
 <img src="https://github.com/utkayfirat/Growexpert/blob/main/open.gif"><br>
+
+## Examples
 <img src="https://github.com/utkayfirat/Growexpert/blob/main/two.png"><br>
 <img src="https://github.com/utkayfirat/Growexpert/blob/main/three.png"><br>
