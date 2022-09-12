@@ -4,6 +4,13 @@
 ## Video
 <img src="https://github.com/utkayfirat/Growexpert/blob/main/open.gif"><br>
 
+## How to use ?
+1 - Open Growtopia.
+2 - Click (Get Growtopian's)
+3 - Click check box, change bot mode and click update (Make BFGMod from None). 
+4 - Adjust the dots on the screen.
+5 - Click (Bot: Off)
+
 ## Examples
 <img src="https://github.com/utkayfirat/Growexpert/blob/main/two.png"><br>
 <img src="https://github.com/utkayfirat/Growexpert/blob/main/three.png"><br>
