@@ -1,5 +1,4 @@
-## Growexpert V1 (EDUCATIONAL PURPOSES)
-## Application Image
+## Growexpert V1 (EDUCATIONAL PURPOSES) <br>Application Image
 <img src="https://github.com/utkayfirat/Growexpert/blob/main/one.png"><br>
 
 ## Video
