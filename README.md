@@ -14,3 +14,6 @@
 ## Examples
 <img src="https://github.com/utkayfirat/Growexpert/blob/main/two.png"><br>
 <img src="https://github.com/utkayfirat/Growexpert/blob/main/three.png"><br>
+
+## Download
+<a href="https://drive.google.com/file/d/1YjCZggoBY3y3r98I_fudkdm7obNWzYz3/view?usp=sharing">Download Link</a>
